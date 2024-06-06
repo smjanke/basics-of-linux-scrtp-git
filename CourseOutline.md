@@ -156,8 +156,9 @@ Pick a language and slurm submission
 
 #### Lecture
 
-git (add, commit, push/pull)
+git (add, commit,push/pull)
 Github
+git (branch merge)
 branches (main and dev)
 
 #### Practice
