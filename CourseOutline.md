@@ -158,7 +158,7 @@ Pick a language and slurm submission
 
 git (add, commit,push/pull)
 Github
-git (branch merge)
+git (branch checkout merge)
 branches (main and dev)
 
 #### Practice
