@@ -22,8 +22,11 @@ Lectured Examples:
 ls
 pwd
 cd (inc cd -)
+mkdir
+touch
 mv/cp
 rm
+cat
 
 .
 ..
@@ -35,13 +38,18 @@ man
 
 Treasure hunt
 
+With the taught aside of `*`
+
 ### Day 1 - Late Morning (11:00 - 12:30)
 
 #### Using scripts
 
-cat
+more on cat
+more/less
+head, tail
+tar
 echo
-\>\>
+
 
 vim
 
@@ -57,7 +65,7 @@ Scripted hunt
 
 Lectured examples
 
-|
+|, \>, \>\>
 
 grep
 find
