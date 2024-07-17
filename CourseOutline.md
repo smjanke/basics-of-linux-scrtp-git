@@ -47,13 +47,13 @@ With the taught aside of `*`
 more on cat
 more/less
 head, tail
-tar
 echo
 
-
-vim
+vim (or nano or emacs)
 
 bash scripts
+
+tar
 
 #### Worked Example 2
 

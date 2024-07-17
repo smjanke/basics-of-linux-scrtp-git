@@ -17,6 +17,8 @@ ssh, grep, sort, uniq, awk, find, set, wget, scp, tmax, screen, .bashrc, nice, v
 How SCRTP works:
 Desktop, Taskfarm, HPC, remote access, priorities, servers, storage, module, Slurm
 
+Basics of git
+
 ## Notes
 
 ### Conversation and notes from Elizabeth Stanway:
