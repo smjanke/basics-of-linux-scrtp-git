@@ -1,0 +1,7 @@
+*.map.txt
+*.wet_map.txt
+*.torn_map.txt
+*.blank_page.txt
+.itl_treasure_hunt/
+.DS_Store
+treasure_hunt/
