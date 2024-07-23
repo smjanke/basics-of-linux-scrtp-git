@@ -82,11 +82,12 @@ Lectured Examples
 
 ssh
 scp
+rsync
 wget
 
 #### Worked Example 4
 
-Remote hunt
+RPi Pong
 
 ## Day 2
 
@@ -97,6 +98,8 @@ Remote hunt
 .bashrc
 .profile
 .ssh/config
+
+#### Time to do this
 
 ### Day 2 - Late Morning (11:00 - 12:30)
 
