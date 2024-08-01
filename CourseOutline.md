@@ -152,24 +152,24 @@ Pick a language and slurm submission
 
 - C/C++
   - MultiCore
-  - Joblib (embarassaingly parallel)
+  - Joblib (embarrassingly parallel)
 - MPI
 - Python
   - Serial (big mem/numpy)
-  - Joblib (embarassalingly parallel)
+  - Joblib (embarrassingly parallel)
   - Dask
   - Multiprocessing
 - Fortran
   - Multicore
-  - Joblib (embarassingly parallel)
+  - Joblib (embarrassingly parallel)
 
 ### Day 2 - Late Afternoon (15:30 - 17:00)
 
 #### Lecture
 
-git (add, commit,push/pull)
-Github
-git (branch checkout merge)
+git (status, add, commit, log)
+Github (fetch, push/pull, clone)
+git (conflicts and merging)
 branches (main and dev)
 
 #### Practice
