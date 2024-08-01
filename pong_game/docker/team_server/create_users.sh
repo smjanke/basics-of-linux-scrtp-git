@@ -13,4 +13,5 @@ done
 
 # Now add umpire
 useradd -ms /bin/bash umpire;
+echo umpire:qwerty2000 | chpasswd;
 chown -R umpire:umpire /pong_game;

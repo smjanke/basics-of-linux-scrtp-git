@@ -4,6 +4,8 @@ services:
     build: ./docker/umpire
     hostname: umpire
     stdin_open: true
+    ports:
+      - "2220:22"
   team1:
     build: ./docker/team_server
     hostname: team1
