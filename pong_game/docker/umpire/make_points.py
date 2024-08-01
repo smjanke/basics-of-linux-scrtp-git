@@ -10,7 +10,7 @@ team_2_file = Path("/pong_game/team2")
 # do this a random number of times
 
 for _ in range(random.randint(1, 20)):
-    with open(pong_file / "truth.txt", "w") as truth_file:
+    with open(pong_file / "truth.txt", "a") as truth_file:
         # generate a random number between 1 and a 1000000
         truth = random.randint(1, 1000000)
 
