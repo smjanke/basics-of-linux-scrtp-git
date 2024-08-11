@@ -1,9 +1,14 @@
 from pathlib import Path
 import re
 
+#if running in docker
 pong_file = Path("/pong_game/")
-team_1_file = Path("/pong_game/team1")
-team_2_file = Path("/pong_game/team2")
+team_1_file = Path("/pong_game/team1/")
+team_2_file = Path("/pong_game/team2/")
+# else running locally
+# pong_file = Path("./")
+# team_1_file = Path("team1/")
+# team_2_file = Path("team2/")
 
 
 def check_cheat(score, file_path):
@@ -24,9 +29,9 @@ def find_score(file_path):
         if match:
             score = int(match.group(1))
             if check_cheat(score, file_path):
-                return score
-            else:
                 return 0
+            else:
+                return score
         else:
             return 0
 
