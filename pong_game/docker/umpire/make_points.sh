@@ -26,7 +26,7 @@ echo "Starting make_points.sh"
 mkdir -p /pong_game/team1
 mkdir -p /pong_game/team2
 
-for _ in {1..20}; do
+for _ in {1..2000}; do
     # run python to make random points
     python3 /pong_game/make_points.py
     # team 1
