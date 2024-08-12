@@ -1,0 +1,23 @@
+version: "2.0"
+instances:
+  umpire:
+    build: ./singularity/umpire
+    hostname: umpire
+    network:
+      ports:
+        - 2220:22
+    stdin_open: true
+  team1:
+    build: ./singularity/team_server
+    hostname: team1
+    network:
+      ports:
+        - 2221:22
+    stdin_open: true
+  team2:
+    build: ./singularity/team_server
+    hostname: team2
+    network:
+      ports:
+        - 2222:22
+    stdin_open: true
