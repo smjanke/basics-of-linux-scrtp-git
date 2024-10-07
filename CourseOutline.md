@@ -2,9 +2,9 @@
 
 ## Day 1
 
-### Day 1 - Early Morning (9:00 - 10:30)
+### Day 1 - Morning (9:00 - 12:00)
 
-#### Motivation and Introduction (30 mins)
+#### Motivation and Introduction
 
 Motivation
 Linux
@@ -40,7 +40,7 @@ Treasure hunt
 
 With the taught aside of `*`
 
-### Day 1 - Late Morning (11:00 - 12:30)
+### Day 1 - Late Morning (13:00 - 14:30)
 
 #### Using scripts
 
@@ -59,7 +59,7 @@ tar
 
 Scripted hunt
 
-### Day 1 - Early Afternoon (13:30 - 15:00)
+### Day 1 - Early Afternoon (15:00 - 17:00)
 
 #### Combining Commands
 
@@ -76,32 +76,7 @@ sort
 
 Messy hunt
 
-### Day 1 - Late Afternoon (15:30 - 17:00)
-
-Lectured Examples
-
-ssh
-scp
-rsync
-wget
-
-#### Worked Example 4
-
-RPi Pong
-
-## Day 2
-
-### Day 2 - Early Morning (9:00 - 10:30)
-
-#### Automating and Configuring (lecture)
-
-.bashrc
-.profile
-.ssh/config
-
-#### Time to do this
-
-### Day 2 - Late Morning (11:00 - 12:30)
+### Day 2 - Morning (9:00 - 12:00)
 
 #### SCRTP
 
@@ -122,33 +97,43 @@ Lecture: System Map
   - HPS (High performance Storage)
   - Scratch Storage
 
-mini break
+- How we support you
+  - Slack
+  - Drop In
+  - Bugzilla
+  - RSE
 
-Lecture:
-How we support you
-Slack
-Drop In
-Bugzilla
-RSE
+#### Remote Access
 
-### Day 2 - Early Afternoon (13:30 - 15:00)
+ssh
+scp
+rsync
+wget
+
+#### Automating and Configuring (lecture)
+
+.bashrc
+.profile
+.ssh/config
+
+#### Time to do this
+
+### Day 2 - Early Afternoon (13:00 - 14:30)
 
 #### Lecture: Modules
 
 Modules what are they and how to use them.
 
-#### Worked Example 5
-
-Using Modules
+### Day 2 - Early Afternoon (15:00 - 17:00)
 
 #### Lecture: Slurm
 
 Queues
 Priorities
 
-#### Worked Example 6
+#### Worked Example 5
 
-Pick a language and slurm submission
+Pick a language and Slurm submission
 
 - C/C++
   - MultiCore
@@ -163,13 +148,26 @@ Pick a language and slurm submission
   - Multicore
   - Joblib (embarrassingly parallel)
 
-### Day 2 - Late Afternoon (15:30 - 17:00)
+### Day 3 - Morning (09:00 - 12:00)
 
-#### Lecture
+#### Lecture Git Lvl-1
 
 git (status, add, commit, log)
-Github (fetch, push/pull, clone)
-git (conflicts and merging)
-branches (main and dev)
 
 #### Practice
+
+#### Lecture Git Lvl-2
+
+Github (fetch, push/pull, clone)
+
+### Day 3 - Afternoon (13:00 - 14:30)
+
+#### Lecture Git Lvl-3
+
+git (conflicts and merging)
+
+### Day 3 - Late Afternoon (15:00 - 17:00)
+
+#### Lecture Git Lvl-4
+
+branches (main and dev)
