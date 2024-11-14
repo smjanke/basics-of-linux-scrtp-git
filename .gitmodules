@@ -1,0 +1,3 @@
+[submodule ".itl_treasure_hunt"]
+	path = .itl_treasure_hunt
+	url = git@github.com:WarwickRSE/itl_treasure_hunt.git
