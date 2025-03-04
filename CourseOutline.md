@@ -1,82 +1,6 @@
 # Course Outline
 
-## Day 1
-
-### Day 1 - Morning (9:00 - 12:00)
-
-#### Motivation and Introduction
-
-Motivation
-Linux
-Why -
-How -
-Where -
-
-Shell
-Why -
-How -
-Where -
-
-Lectured Examples:
-
-ls
-pwd
-cd (inc cd -)
-mkdir
-touch
-mv/cp
-rm
-cat
-
-.
-..
-~/
-
-man
-
-#### Worked Example 1
-
-Treasure hunt
-
-With the taught aside of `*`
-
-### Day 1 - Late Morning (13:00 - 14:30)
-
-#### Using scripts
-
-more on cat
-more/less
-head, tail
-echo
-
-vim (or nano or emacs)
-
-bash scripts
-
-tar
-
-#### Worked Example 2
-
-Scripted hunt
-
-### Day 1 - Early Afternoon (15:00 - 17:00)
-
-#### Combining Commands
-
-Lectured examples
-
-|, \>, \>\>
-
-grep
-find
-uniq
-sort
-
-#### Worked Example 3
-
-Messy hunt
-
-### Day 2 - Morning (9:00 - 12:00)
+### Morning (10:00 - 12:00)
 
 #### SCRTP
 
@@ -118,13 +42,13 @@ wget
 
 #### Time to do this
 
-### Day 2 - Early Afternoon (13:00 - 14:30)
+### Early Afternoon (13:00 - 14:30)
 
 #### Lecture: Modules
 
 Modules what are they and how to use them.
 
-### Day 2 - Early Afternoon (15:00 - 17:00)
+### Early Afternoon (15:00 - 16:00)
 
 #### Lecture: Slurm
 
