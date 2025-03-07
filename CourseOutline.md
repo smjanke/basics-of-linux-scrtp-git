@@ -1,6 +1,6 @@
 # Course Outline
 
-## Day 1
+## Day 1: Bash
 
 ### Day 1 - Morning (9:00 - 12:00)
 
@@ -40,7 +40,7 @@ Treasure hunt
 
 With the taught aside of `*`
 
-### Day 1 - Late Morning (13:00 - 14:30)
+### Day 1: Bash - Late Morning (13:00 - 14:30)
 
 #### Using scripts
 
@@ -59,7 +59,7 @@ tar
 
 Scripted hunt
 
-### Day 1 - Early Afternoon (15:00 - 17:00)
+### Day 1: Bash - Early Afternoon (15:00 - 17:00)
 
 #### Combining Commands
 
@@ -76,7 +76,7 @@ sort
 
 Messy hunt
 
-### Day 2 - Morning (9:00 - 12:00)
+### Day 2: SCRTP - Morning (9:00 - 12:00)
 
 #### SCRTP
 
@@ -118,13 +118,13 @@ wget
 
 #### Time to do this
 
-### Day 2 - Early Afternoon (13:00 - 14:30)
+### Day 2: SCRTP - Early Afternoon (13:00 - 14:30)
 
 #### Lecture: Modules
 
 Modules what are they and how to use them.
 
-### Day 2 - Early Afternoon (15:00 - 17:00)
+### Day 2: SCRTP - Early Afternoon (15:00 - 17:00)
 
 #### Lecture: Slurm
 
@@ -148,7 +148,7 @@ Pick a language and Slurm submission
   - Multicore
   - Joblib (embarrassingly parallel)
 
-### Day 3 - Morning (09:00 - 12:00)
+### Day 3: Git - Morning (09:00 - 12:00)
 
 #### Lecture Git Lvl-1
 
@@ -160,13 +160,13 @@ git (status, add, commit, log)
 
 Github (fetch, push/pull, clone)
 
-### Day 3 - Afternoon (13:00 - 14:30)
+### Day 3: Git - Afternoon (13:00 - 14:30)
 
 #### Lecture Git Lvl-3
 
 git (conflicts and merging)
 
-### Day 3 - Late Afternoon (15:00 - 17:00)
+### Day 3: Git - Late Afternoon (15:00 - 17:00)
 
 #### Lecture Git Lvl-4
 
